@@ -73,6 +73,11 @@ footer a{
     color: white;
 }
 
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
+
 p.caption{
     color: #999999 ;
     font-style: italic;
